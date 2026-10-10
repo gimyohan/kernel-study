@@ -126,5 +126,5 @@ module_exit(my_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("javago");
-MODULE_DESCRIPTION("hello test module");
+MODULE_DESCRIPTION("print utc time module");
 
